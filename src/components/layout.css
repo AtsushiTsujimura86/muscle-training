@@ -1,0 +1,24 @@
+.app-header{
+    background-color: #282c34;
+    color: white;
+    height: 15vh;
+}
+
+.now-schedule {
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.log{
+    background-color: red;
+    height: 50vh;
+}
+
+.register{
+    background-color: blue;
+    height: 50vh;
+}
